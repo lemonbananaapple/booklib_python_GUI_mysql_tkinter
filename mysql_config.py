@@ -1,7 +1,7 @@
 
 dbconfig = {
     'user' : 'root',
-    'password' : 'Minh@240903',
+    'password' : '###############',
     'host' : "localhost",
     'database' : 'mybooks'
 }
